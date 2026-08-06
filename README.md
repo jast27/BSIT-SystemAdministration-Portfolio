@@ -8,8 +8,8 @@ A collection of weekly laboratory activities, documentation, and projects comple
 - **Name:** Jasmin Clara S. Pacia
 - **Course:** Bachelor of Science in Information Technology
 - **Subject:** ITEP 414 – System Administration and Maintenance
-- **Section:** [Your Section]
-- **Date:** August 2026
+- **Section:** BSIT 4A_WAMD
+- **Date:** August 6, 2026
 
 ---
 
@@ -88,6 +88,7 @@ https://www.linkedin.com/in/jasmin-clara-pacia-a3a770427/
 
 ## GitHub Profile
 
+<img width="1920" height="1020" alt="GitHub Profile" src="https://github.com/user-attachments/assets/8f22b996-0b2a-4ee7-ad10-c1d2248c5175" />
 
 
 ## LinkedIn Profile
