@@ -36,7 +36,6 @@ The following software and tools were successfully installed and verified:
 - Oracle VirtualBox
 - Ubuntu Server ISO
 - Windows 11 Enterprise Evaluation ISO
-- Google Chrome
 
 ---
 
@@ -56,27 +55,32 @@ https://www.linkedin.com/in/jasmin-clara-pacia-a3a770427/
 
 ## Git
 
-![Git](screenshots/Git.png)
+<img width="1920" height="1080" alt="Git" src="https://github.com/user-attachments/assets/d8814706-3de2-4cb8-a525-fbf6b48cafd2" />
+
 
 ## GitHub Desktop
 
-![GitHub Desktop](screenshots/GitHub%20Desktop.png)
+<img width="1920" height="1080" alt="Github Desktop" src="https://github.com/user-attachments/assets/ed649ec1-6e3f-4746-857f-e38b6e5cc921" />
 
 ## Visual Studio Code
 
-![Visual Studio Code](screenshots/Visual%20Studio%20Code.png)
+<img width="1920" height="1080" alt="Visual Studio Code" src="https://github.com/user-attachments/assets/58249b6a-c310-455c-b600-869cc576327b" />
+
 
 ## VirtualBox
 
-![VirtualBox](screenshots/Virtual%20Box.png)
+<img width="1920" height="1080" alt="Virtual Box" src="https://github.com/user-attachments/assets/84286602-06da-434d-88fa-627714ef90e6" />
+
 
 ## Ubuntu Server ISO
 
-![Ubuntu Server](screenshots/Ubuntu%20Server.png)
+<img width="1920" height="1080" alt="Ubuntu Server" src="https://github.com/user-attachments/assets/0e7d3472-c526-422c-a627-c80529acf589" />
+
 
 ## Windows 11 Enterprise Evaluation ISO
 
-![Windows ISO](screenshots/Windows%20ISO.png)
+<img width="1920" height="1080" alt="Windows 11 Enreprise ISO" src="https://github.com/user-attachments/assets/e271329a-c29f-4e42-b8b6-061e901bdc4c" />
+
 
 ---
 
@@ -84,11 +88,12 @@ https://www.linkedin.com/in/jasmin-clara-pacia-a3a770427/
 
 ## GitHub Profile
 
-![GitHub Profile](accounts/GitHub%20Profile.png)
+
 
 ## LinkedIn Profile
 
-![LinkedIn Profile](accounts/LinkedIn%20Profile.png)
+<img width="1920" height="1020" alt="LinkedIn Profile" src="https://github.com/user-attachments/assets/84391344-71f3-4eb8-a9b9-2037f318e33c" />
+
 
 ---
 
