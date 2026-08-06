@@ -79,7 +79,8 @@ https://www.linkedin.com/in/jasmin-clara-pacia-a3a770427/
 
 ## Windows 11 Enterprise Evaluation ISO
 
-<img width="1920" height="1080" alt="Windows 11 Enreprise ISO" src="https://github.com/user-attachments/assets/e271329a-c29f-4e42-b8b6-061e901bdc4c" />
+<img width="1920" height="1080" alt="Windows 11 Enterprise ISO" src="https://github.com/user-attachments/assets/a69902c6-7309-4e67-b6c4-fc48cfdcddfe" />
+
 
 
 ---
